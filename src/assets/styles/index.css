@@ -1,0 +1,15 @@
+@import url(normalize.css);
+@import url(./fonts/fonts.css);
+
+@import url(../styles/page/page.css);
+
+@import url(../styles/content/content.css);
+@import url(../styles/content/__title/content__title.css);
+@import url(../styles/content/__button/content__button.css);
+
+@import url(../styles/playfield/playfield.css);
+@import url(../styles/playfield/__block/playfield__block.css);
+
+@import url(../styles/popup/popup.css);
+@import url(../styles/popup/__title/popup__title.css);
+@import url(../styles/popup/--open/popup__open.css);

@@ -1,0 +1,10 @@
+.playfield {
+  display: flex;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 324px;
+  flex-wrap: wrap;
+  height: 324px;
+  border: 1px solid black;
+}

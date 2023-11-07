@@ -1,0 +1,16 @@
+.playfield__block {
+  width: 106px;
+  height: 106px;
+  margin: 0;
+  padding: 0;
+  font-size: 76px;
+  display: inline-block;
+  background-color: blueviolet;
+  border: 1px solid black;
+  cursor: pointer;
+  transition: 0.1s;
+}
+
+.playfield__block:hover {
+  background-color: rgb(162, 104, 216);
+}
